@@ -23,7 +23,7 @@ void saludo(void) {
     SetDDRamAddr(0xC0); // Principio area visible LCD
 
     while( BusyXLCD() ); 
-    putrsXLCD("   Enero-2020");
+    putrsXLCD("   Enero-20");
     __delay_ms(1000);
     
     while (BusyXLCD()); // Wait if LCD busy

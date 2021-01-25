@@ -18,7 +18,6 @@
         <itemPath>mcc_generated_files/pin_manager.h</itemPath>
         <itemPath>mcc_generated_files/adc.h</itemPath>
       </logicalFolder>
-      <itemPath>../../../../Programas_varios/Microchip/xc8/v2.05/include/plib/xlcd.h</itemPath>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
                    displayName="Linker Files"

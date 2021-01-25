@@ -91,8 +91,8 @@ void main(void)
         // Add your application code
 
         convertedValue = ADC_GetConversion(channel_AN2); // Canal 2 data Geofono
- //       putrsXLCD("Caripito ...");
- //       escribe_float(convertedValue, 0x89);
+ //      putrsXLCD("Caripito ...");
+ //      escribe_float(convertedValue, 0x89);
         printf("%X\n", convertedValue);         // Envia el puerto serial
             
 //        EventoUmbral (convertedValue, data);    // Detector de evento para LCD

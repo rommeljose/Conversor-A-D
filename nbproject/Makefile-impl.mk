@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Conversor_AD_18.X
+PROJECTNAME=Conversor-A-D
 
 # Active Configuration
 DEFAULTCONF=default

@@ -8,7 +8,7 @@ Version 3.2 HI-TECH Software Intermediate Code
 "13 D:\Programas_varios\Microchip\xc8\v2.05\pic\include\c90\stdarg.h
 [v ___va_arg `(*v ~T0 @X0 0 ev`*v ]
 [p i ___va_arg ]
-[; ;include\__size_t.h: 4: typedef unsigned size_t;
+[; ;__size_t.h: 4: typedef unsigned size_t;
 [; ;stdarg.h: 7: typedef void * va_list[1];
 [; ;stdarg.h: 10: extern void * __va_start(void);
 [; ;stdarg.h: 13: extern void * __va_arg(void *, ...);

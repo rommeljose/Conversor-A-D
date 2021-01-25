@@ -1,7 +1,7 @@
 
 # 1 "mcc_generated_files/eusart.c"
 
-# 18 "../../../../Programas_varios/Microchip/xc8/v2.05/pic/include\xc.h"
+# 18 "D:\Programas_varios\Microchip\xc8\v2.05\pic\include\xc.h"
 extern const char __xc8_OPTIM_SPEED;
 
 extern double __fpnormalize(double);
@@ -11,7 +11,7 @@ extern double __fpnormalize(double);
 #pragma intrinsic(__builtin_software_breakpoint)
 extern void __builtin_software_breakpoint(void);
 
-# 52 "../../../../Programas_varios/Microchip/xc8/v2.05/pic/include\pic18f25k20.h"
+# 52 "D:\Programas_varios\Microchip\xc8\v2.05\pic\include\pic18f25k20.h"
 extern volatile unsigned char SSPMSK __at(0xF77);
 
 asm("SSPMSK equ 0F77h");
@@ -4243,7 +4243,7 @@ extern volatile __bit nW __at(0x7E3A);
 
 extern volatile __bit nWRITE __at(0x7E3A);
 
-# 18 "../../../../Programas_varios/Microchip/xc8/v2.05/pic/include\pic18.h"
+# 18 "D:\Programas_varios\Microchip\xc8\v2.05\pic\include\pic18.h"
 __attribute__((__unsupported__("The " "flash_write" " routine is no longer supported. Please use the MPLAB X MCC."))) void flash_write(const unsigned char *, unsigned int, __far unsigned char *);
 __attribute__((__unsupported__("The " "EraseFlash" " routine is no longer supported. Please use the MPLAB X MCC."))) void EraseFlash(unsigned long startaddr, unsigned long endaddr);
 
@@ -4359,7 +4359,7 @@ typedef int16_t intptr_t;
 
 typedef uint16_t uintptr_t;
 
-# 4 "../../../../Programas_varios/Microchip/xc8/v2.05/pic/include\__size_t.h"
+# 4 "D:\Programas_varios\Microchip\xc8\v2.05\pic\include\__size_t.h"
 typedef unsigned size_t;
 
 # 7 "D:\Programas_varios\Microchip\xc8\v2.05\pic\include\c90\stdarg.h"

@@ -1,22 +1,11 @@
  build/default/production/main.d  \
  build/default/production/main.p1:  \
  main.c  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/language_support.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/__null.h  \
 ./Lib_mias_all/Librerias_microchip/xlcd.h  \
 ./MCC_generated_files/mcc.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/pic18f25k20.h  \
 Lib_mias_all/micelaneos.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/errata.h  \
 ./MCC_generated_files/adc.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/__size_t.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/xc.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/__at.h  \
 ./MCC_generated_files/interrupt_manager.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/htc.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/pic18_chip_select.h  \
 ./MCC_generated_files/tmr0.h  \
 ./MCC_generated_files/eusart.h  \
-./MCC_generated_files/pin_manager.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/pic18.h  \
-../../../../Programas_varios/Microchip/xc8/v2.05/pic/include/p18cxxx.h 
+./MCC_generated_files/pin_manager.h 

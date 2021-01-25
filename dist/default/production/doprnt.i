@@ -1,7 +1,7 @@
 
 # 1 "D:\Programas_varios\Microchip\xc8\v2.05\pic\sources\c90\common\doprnt.c"
 
-# 4 "../../../../Programas_varios/Microchip/xc8/v2.05/pic/include\__size_t.h"
+# 4 "D:\Programas_varios\Microchip\xc8\v2.05\pic\include\__size_t.h"
 typedef unsigned size_t;
 
 # 7 "D:\Programas_varios\Microchip\xc8\v2.05\pic\include\c90\stdarg.h"
