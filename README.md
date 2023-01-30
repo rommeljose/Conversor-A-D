@@ -15,6 +15,8 @@ El sistema consiste, de un PIC18F25K20 que digitaliza la señal de salida de un 
     <td><img src="otros/fotos/amplificador.jpg" border="1" alt="Circuito Amplificador" width="150" height="100"></td>
     <td></td>
     <td><img src="otros/fotos/filtros.jpg" border="1" alt="Circuito Filtro" width="150" height="100"></td>
+    <td></td>
+    <td><img src="otros/fotos/Tarjeta_auxiliar.png" border="1" alt="Tarjeta Auxiliar" width="150" height="100"></td>
   </tr>
 </table>
 
